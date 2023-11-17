@@ -11,7 +11,6 @@
     <!-- Wavy pattern -->
     <item android:top="10dp">
         <bitmap
-            android:src="@drawable/wave_pattern"
             android:tileMode="repeat"
             android:gravity="top" />
     </item>
